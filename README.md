@@ -1,2 +1,1 @@
-# BUD24
-Baku Usability Day 2024
+13 dekabr tarixində mənim üçün unudulmaz bir fürsət oldu: UNEC-də keçirilən "Baku Usability Day 2024" və "Illuminator Exhibition" tədbirində iştirak etdim. Tədbir Şamil Hümbətovun təşkilatçılığı ilə həyata keçirildi və tələbələrin kreativlik və istifadəçi yönümlü həllər vasitəsilə real dünyadakı çətinlikləri həll etməyə yönəlmiş bir sıra innovativ ideyalarını nümayiş etdirdi. "Flood" komandası olaraq mən və komanda yoldaşlarım Emil Məmmədov və Leyla Nusalova bank terminalları və DOST Bank sisteminin istifadəsi və problemləri ilə bağlı layihəmizi təqdim etdik. Layihənin məqsədi əsas problemləri müəyyənləşdirmək və istifadəçi təcrübəsini yaxşılaşdırmaq üçün daha əlçatan və səmərəli həllər təklif etmək idi.
